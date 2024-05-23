@@ -1,5 +1,5 @@
-# Final_telegram-bot
 Here is the code for the telegram bot for my final work in the center.
+
 # Telegram-bot
 This repository contains my project - Telegram bot for the "Coaching and Facilitation Workshop by Evgenia Vyrvich"
 
